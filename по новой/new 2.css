@@ -1,0 +1,35 @@
+html{
+	background:url("img/загруженное.jfif") repeat-x black left 300px ;
+}
+#bb{
+	color:#F3D147;
+}
+#bb:hover{
+	color:#C74F2C;
+	background-color:#8FF391;
+	width:50%;
+}
+.text{
+	font-size:20px;
+	color:#F3D147;
+	margin-left:300px;
+}
+audio{
+	width:300px;
+	height:15px;
+	
+}
+img{
+	width:500px;
+	margin-top:300px;
+}
+img:hover{
+	transform:translate(11px,9px);
+}
+.text:hover{
+	font-size:22px;
+	color:#F38F3E;
+}
+controls{
+	background-color:#092C25;
+}
